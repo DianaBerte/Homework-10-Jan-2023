@@ -1,0 +1,25 @@
+.jumbotron {
+    background-color: rgb(40, 104, 165);
+    text-align: center;
+    color: blanchedalmond;
+    opacity: 0;
+}
+
+.jumbotron {
+    opacity: 1;
+}
+.top-card {
+    height: 100%;
+    /* border: 5px solid rgb(85, 14, 14);   */
+}
+
+/* .top-card .card-body {
+    border: 3px solid salmon;
+    
+} */
+
+.img-fluid {
+    height: 50%;
+    width: 100%;
+    object-fit: cover;
+}
