@@ -16,6 +16,10 @@
     /* border: 5px solid rgb(85, 14, 14);   */
 }
 
+.worst-card {
+    height: 100%;
+}
+
 /* .top-card .card-body {
     border: 3px solid salmon;
     
@@ -25,4 +29,19 @@
     height: 50%;
     width: 100%;
     object-fit: cover;
+    border-radius: 5%;
+}
+
+.card-badge {
+    width: 20%;
+}
+
+.top-card {
+    position: relative;
+}
+
+.card-badge {
+    position: absolute;
+    left: 0;
+    border-radius: 10%;
 }
